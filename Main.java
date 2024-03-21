@@ -10,7 +10,7 @@ class Andriyanov_b{
         String Verhniy = input.toUpperCase(); // Преобразование строки input в верхний регистр и сохранение в переменную Verhniy.
         String Nigniy = input.toLowerCase(); // Преобразование строки input в нижний регистр и сохранение в переменную Nigniy.
 
-        System.out.print("Верхний регистр: " + Verhniy + "\n"); // Вывод строки верхнего регистра.
-        System.out.print("Нижний регистр: " + Nigniy); // Вывод строки нижнего регистра.
+        System.out.print("Верхний регистр:  " + Verhniy + "\n"); // Вывод строки верхнего регистра.
+        System.out.print("Нижний регистр:  " + Nigniy); // Вывод строки нижнего регистра.
     }
 }

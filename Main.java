@@ -3,6 +3,7 @@ import java.util.Scanner;
 
 
 
+<<<<<<< HEAD
 class Nalitov_a {
     // ввод строки с клавиатуры, подсчет гласных букв и вывода результата
     static void str_in_and_out() {
@@ -14,6 +15,10 @@ class Nalitov_a {
         int out = count_glasnih(input);
         // Выводим результат подсчета гласных букв
         System.out.print("Количество гласных в строке = " + out);
+=======
+        System.out.print("Верхний регистр: " + Verhniy + "\n"); // Вывод строки верхнего регистра.
+        System.out.print("Нижний регистр: " + Nigniy); // Вывод строки нижнего регистра.
+>>>>>>> Andriyanov_zB
     }
 
     // подсчет

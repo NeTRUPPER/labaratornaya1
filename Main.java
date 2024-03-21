@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 class Andriyanov_b{
     // Объявление класса Andriyanov_b.
     public static void register_bukv(){ // Объявление статического метода register_bukv(), возвращающего целочисленное значение.

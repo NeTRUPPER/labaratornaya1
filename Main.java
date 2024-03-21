@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 class Andriyanov_b{
     // Объявление класса Andriyanov_b.
     public static void register_bukv(){ // Объявление статического метода register_bukv(), возвращающего целочисленное значение.
@@ -16,6 +17,8 @@ class Andriyanov_b{
         System.out.print("Верхний регистр: " + Verhniy + "\n"); // Вывод строки верхнего регистра.
         System.out.print("Нижний регистр: " + Nigniy); // Вывод строки нижнего регистра.
 =======
+=======
+>>>>>>> Nalitov_zA
 class Nalitov_a {
     // ввод строки с клавиатуры, подсчет гласных букв и вывода результата
     static void str_in_and_out() {
@@ -87,6 +90,9 @@ class Main {
             }
         } while (zadanie != 'q');
 
+<<<<<<< HEAD
+>>>>>>> Nalitov_zA
+=======
 >>>>>>> Nalitov_zA
     }
 }
